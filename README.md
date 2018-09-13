@@ -5,11 +5,12 @@ Java Password Generator
 
 [Java Password Generator](http://www.zettatips.com/) 
 ================================  
-Java Password Generator is the application that help you to generate a secure and hard to guess password. 
-You can choose your password length, and select at least one of the four conditions for the password which are uppercase letter, 
-lowercase letter, digits, and special characters.
-
-If you would like to help out with the Java Password Generator project, you're in the right place.
+Java Password Generator will help you to generate a secure and hard to guess password. 
+You can choose your password length, and select at least one out of four conditions which are: 
+a) uppercase letter, 
+b) lowercase letter, 
+c) digits
+d) special characters.
 
 Getting Started With Development
 ---------------
@@ -28,7 +29,6 @@ Getting Started With Development
 (see Github's instructions if you need help). Follow the [Github Line Ending Help](http://help.github.com/dealing-with-lineendings/)
 
 4. Open up **eclipse** and import the *Guipassword*,  projects. 
-
 
 
 Contact
