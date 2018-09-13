@@ -5,10 +5,10 @@ guipassword
 ================================  
 Java Password Generator will help you to generate a secure and hard to guess password. 
 You can choose your password length, and select at least one out of four conditions which are: 
-1. uppercase letter, 
-2. lowercase letter, 
-3. digits
-4. special characters.
+1. Uppercase letter 
+2. Lowercase letter 
+3. Digits
+4. Special characters
 
 Getting Started With Development
 ---------------
